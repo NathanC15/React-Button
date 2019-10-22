@@ -4,7 +4,7 @@ import './App.css';
 class App extends Component {
 
   sayHello(){
-    console.log("Thank you!")
+    console.log("Hello!")
   }
 
   render() {
@@ -16,10 +16,3 @@ class App extends Component {
 }
 }
 export default App;
-
-
-
-//Create the input and submit button
-//connect them together
-//create a robot to understand the inputs
-//create a reponse for the robot to output
